@@ -65,8 +65,7 @@ a
   color: #FFFFFF;
   padding: 10px 25px 10px 25px;
 }
-
-#headerCta p
+p.gray
 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -108,5 +107,39 @@ a
   font-style: normal;
   font-size: 16px;
   line-height: 24px;
+  color: #070F18;
+}
+
+h2.red
+{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #F75C4E;
+}
+h1.black
+{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  margin-top: 0;
+  color: #000000;
+}
+.textCenter
+{
+  text-align: center;
+}
+#sevices .textCenter h3
+{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
   color: #070F18;
 }

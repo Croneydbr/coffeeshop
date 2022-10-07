@@ -181,3 +181,16 @@ h1.black
   color: #FFFFFF;
   border: 0;
 }
+
+#portfolioTitle
+{
+  margin-top: 150px;
+}
+.portfolioImg img
+{
+  width: 100%;
+}
+.portfolioImg
+{
+  padding: 20px;
+}
